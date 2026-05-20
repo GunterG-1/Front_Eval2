@@ -10,7 +10,6 @@ Interfaz web desarrollada con Flask y Jinja2 para el proyecto de InnovatechChile
 
 ## 🚀 Inicio Rápido
 ### Opción 1: Con Docker Compose (Recomendado)
-
 ```bash
 cd ..
 docker-compose up --build
