@@ -1,4 +1,4 @@
-# InnovatechChile - Frontend Web
+# InnovatechChile - Frontend Web 
 
 Interfaz web desarrollada con Flask y Jinja2 para el proyecto de InnovatechChile. Permite gestionar usuarios consumiendo la API del Backend.
 
