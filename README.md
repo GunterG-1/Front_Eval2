@@ -9,7 +9,6 @@ Interfaz web desarrollada con Flask y Jinja2 para el proyecto de InnovatechChile
 - Navegador web moderno
 
 ## 🚀 Inicio Rápido
-
 ### Opción 1: Con Docker Compose (Recomendado)
 
 ```bash
