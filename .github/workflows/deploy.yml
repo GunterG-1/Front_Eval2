@@ -19,7 +19,7 @@ jobs:
         uses: docker/login-action@v3
         with:
           username: ${{ secrets.DOCKER_NAME }}
-          password: ${{ secrets.ACESSO_DOCKERHUB_PASS }}
+          password: ${{ secrets.ACCESO_DOCKERHUB_PASS }}
 
       - name: Build Docker image
         run: docker build -t ${{ secrets.DOCKER_NAME }}/front_eval2:latest .
